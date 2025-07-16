@@ -1,3 +1,5 @@
+![Portada](./img/Miniatura Final.png) 
+
 # 📂 KiCad Components Organizer
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Stars](https://img.shields.io/github/stars/alediaz-xyz/CRUD_KiCaD?style=social) ![Forks](https://img.shields.io/github/forks/alediaz-xyz/CRUD_KiCaD?style=social)
@@ -13,8 +15,6 @@ Una aplicación web construida con **HTML**, **CSS**, **Bootstrap** y **Vanilla 
 - [🚀 Características](#-características)
 - [📸 Capturas de pantalla](#-capturas-de-pantalla)
 - [🛠️ Tecnologías utilizadas](#️-tecnologías-utilizadas)
-- [📂 Estructura del proyecto](#-estructura-del-proyecto)
-- [🧑‍💻 Cómo usar](#-cómo-usar)
 - [🌱 Posibles mejoras](#-posibles-mejoras)
 - [📖 Más información](#-más-información)
 - [👨‍💻 Autor](#-autor)
@@ -36,8 +36,9 @@ Una aplicación web construida con **HTML**, **CSS**, **Bootstrap** y **Vanilla 
 
 ## 📸 Capturas de pantalla
 
-![Captura 1](assets/img/screenshot1.png)  
-![Captura 2](assets/img/screenshot2.png)  
+![Captura 1](./img/Captura_1.png)  
+![Captura 2](./img/Captura_2.png)
+![Captura 3](./img/Captura_3.png)  
 
 ---
 
@@ -50,12 +51,6 @@ Una aplicación web construida con **HTML**, **CSS**, **Bootstrap** y **Vanilla 
 
 ---
 
-## 📂 Estructura del proyecto
-
-index.js
-index.html
-README.md
----
 
 🌱 Posibles mejoras
 🔜 En próximas versiones podríamos:
@@ -71,11 +66,18 @@ Desplegar la app en la nube para acceso desde cualquier lugar.
 📖 Más información
 📄 En mi blog estoy publicando contenido sobre JavaScript y manipulación del DOM durante todo agosto, además de ejemplos prácticos como esta app.
 
-📹 También puedes ver la demo en YouTube.
+📹 También puedes ver la demo en [Youtube](https://youtu.be/WDjYXBhGdLg).
 
 ---
 
 👨‍💻 Autor
 👋 Creado por Ale Díaz
-🌐 alediaz.xyz
-📱 LinkedIn | YouTube
+🌐 **[Mi página web](https://alediaz.xyz/)**
+<div align= "center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alejandro-díaz-sastre-0b0a3b213)
+[![WordPress Badge](https://img.shields.io/badge/WordPress-3b5998?style=flat-square&logo=Wordpress&logoColor=white)](https://alediaz.xyz/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/alediaz.xyz)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/@alediaz-xyz?si=k1imkM3px6Ww05mn)
+</div>
+
