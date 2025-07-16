@@ -1,4 +1,4 @@
-![Portada](./img/Miniatura Final.png) 
+![Portada](./img/MIniatura%20Final.png) 
 
 # 📂 KiCad Components Organizer
 
