@@ -8,7 +8,7 @@ Una aplicación web construida con **HTML**, **CSS**, **Bootstrap** y **Vanilla 
 
 💡 Esta herramienta surge de la necesidad de **optimizar la búsqueda y reutilización de componentes favoritos** en proyectos de diseño electrónico.
 
----
+
 
 ## 📑 Tabla de contenidos
 
@@ -19,7 +19,7 @@ Una aplicación web construida con **HTML**, **CSS**, **Bootstrap** y **Vanilla 
 - [📖 Más información](#-más-información)
 - [👨‍💻 Autor](#-autor)
 
----
+
 
 ## 🚀 Características
 
@@ -32,7 +32,7 @@ Una aplicación web construida con **HTML**, **CSS**, **Bootstrap** y **Vanilla 
 ✅ Construido 100% con **Vanilla JS**, sin frameworks externos.  
 ✅ Perfecto como base para expandirlo a un proyecto más robusto con backend (Node.js, Express, MongoDB).  
 
----
+
 
 ## 📸 Capturas de pantalla
 
@@ -40,7 +40,7 @@ Una aplicación web construida con **HTML**, **CSS**, **Bootstrap** y **Vanilla 
 ![Captura 2](./img/Captura_2.png)
 ![Captura 3](./img/Captura_3.png)  
 
----
+
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -49,7 +49,7 @@ Una aplicación web construida con **HTML**, **CSS**, **Bootstrap** y **Vanilla 
 - 🖌️ **Bootstrap 5**  
 - ⚡ **JavaScript (DOM Manipulation)**  
 
----
+
 
 
 ## 🌱 Posibles mejoras
@@ -68,7 +68,6 @@ Desplegar la app en la nube para acceso desde cualquier lugar.
 
 📹 También puedes ver la demo en [Youtube](https://youtu.be/WDjYXBhGdLg).
 
----
 
 ## 👨‍💻 Autor
 👋 Creado por Ale Díaz
