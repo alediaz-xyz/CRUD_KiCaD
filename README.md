@@ -52,7 +52,7 @@ Una aplicación web construida con **HTML**, **CSS**, **Bootstrap** y **Vanilla 
 ---
 
 
-🌱 Posibles mejoras
+## 🌱 Posibles mejoras
 🔜 En próximas versiones podríamos:
 
 Añadir autenticación de usuarios.
@@ -63,14 +63,14 @@ Desplegar la app en la nube para acceso desde cualquier lugar.
 
 ¿Te gustaría colaborar? 👉 Abre un issue o haz un pull request.
 
-📖 Más información
+## 📖 Más información
 📄 En mi blog estoy publicando contenido sobre JavaScript y manipulación del DOM durante todo agosto, además de ejemplos prácticos como esta app.
 
 📹 También puedes ver la demo en [Youtube](https://youtu.be/WDjYXBhGdLg).
 
 ---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 👋 Creado por Ale Díaz
 🌐 **[Mi página web](https://alediaz.xyz/)**
 <div align= "center">
